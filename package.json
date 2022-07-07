@@ -76,7 +76,7 @@
     "js-yaml": "3.13.1",
     "lz-string": "1.4.4",
     "marked": "0.6.2",
-    "moment": "2.20.1",
+    "moment": "2.29.4",
     "moment-timezone": "0.5.14",
     "node-spawn-server": "1.0.1",
     "nopt": "4.0.1",
